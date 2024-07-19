@@ -1,0 +1,15 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.header {
+  background-image: url(../images/header-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: #fff;
+}
+
+/* 1 1:21 */
