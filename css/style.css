@@ -162,6 +162,17 @@ ul{
   margin-bottom: 120px;
 }
 
+.info-tabs__item--active{
+  border-bottom: 1px solid #303030;
+}
 
-/* 2 50:01 */
+.info-tabs__content{
+  display: none;
+}
+
+.info-tabs__content--active{
+  display: block;
+}
+
+/* 2 01:14 */
 
