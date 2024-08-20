@@ -233,6 +233,7 @@ margin-bottom: 5px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin-bottom: 150px;
 }
 
 .blockquote__text{
@@ -243,6 +244,37 @@ margin-bottom: 5px;
   color: #fff;
 }
 
+.clients{
+  margin-bottom: 150px;
+}
 
-/* 2 02:00 */
+.clents-slider__box{
+  display: flex;
+}
+
+.clients-slider__box-img{
+  flex-basis: 510px;
+  margin-right: 90px;
+  margin-bottom: 30px;
+}
+
+.clents-slider__box-title{
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 700;
+  max-width: 478px;
+  margin-bottom: 30px;
+}
+
+.clents-slider__box-list{
+  margin-left: 50px;
+  margin-bottom: 65px;
+}
+
+.clents-slider__box-item{
+  margin-bottom: 15px;
+}
+
+
+/* 2 02:21 */
 
