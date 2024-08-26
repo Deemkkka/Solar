@@ -401,5 +401,35 @@ margin-bottom: 5px;
   margin-right: -10px;
 }
 
-/* 3 00:45 */
+
+
+
+
+@media (max-width: 650px){
+  .header__title{
+    font-size: 47px;
+    line-height: 50px;
+  }
+
+  .header__title span {
+    font-size: 25px;  
+    line-height: 32px;
+  }
+}
+
+@media (max-width: 450px){
+  .header__title{
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .header__title span {
+    font-size: 20px;  
+    line-height: 25px;
+  }
+}
+
+
+
+/* 3 01:23 */
 
